@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @benahalkar
 - 👀 I’m interested in electronics, programming, mathematics, mechanics, astronomy.
 - 🌱 I’m currently learning Linux and Industrial Embedded systems.
-- 💞️ I’m looking to collaborate on home-automation 
+-     I’m looking to collaborate on home-automation 
 - 📫 You can reach me on benahalkar@gmail.com
 
 <!---
