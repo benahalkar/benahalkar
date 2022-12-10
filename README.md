@@ -6,7 +6,7 @@
 - 👀 I’m interested in electronics, programming, mathematics, mechanics, astronomy.
 - 🤖 I’m looking to collaborate on home-automation and robotics.
 - 📫 You can reach me via mail at [Harsh Benahalkar](mailto:harsh.benahalkar.s@gmail.com).
-- ⚡ Fun fact: I like Pink Floyd
+- ⚡ Fun fact: I like Pink Floyd.
 
 ## 🧰 Languages and Tools
 <p align="left">
