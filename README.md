@@ -37,6 +37,14 @@
 <img src="./images/c.png" alt="C" height="40" style="vertical-align:top; margin:4px">
 
 <img src="./images/cpp.png" alt="C++" height="40" style="vertical-align:top; margin:4px">
+
+<img src="./images/airflow.png" alt="Airflow" height="40" style="vertical-align:top; margin:4px">
+
+<img src="./images/tensorflow.png" alt="Tensorflow" height="40" style="vertical-align:top; margin:4px">
+
+<img src="./images/scikit.png" alt="Scikit" height="40" style="vertical-align:top; margin:4px">
+
+
 </p>
 
 <!---
