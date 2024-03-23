@@ -52,15 +52,13 @@
 
 # Hi, I'm Harsh! 👋
 
-### I'm a full-stack hardware developer
+### I'm an Engineer
 
 - 🌱 I’m currently working on Computer Vision, Industrial Linux Embedded systems, and Industrial IoT.
 - 👀 I’m interested in electronics, programming, mathematics, mechanics, and astronomy.
 - 🤖 I’m looking to collaborate on home-automation and robotics.
 - ⚡ Fun fact: I like Pink Floyd.
 </div>
-
-<br>
 
 <div id="links">
 
@@ -71,6 +69,9 @@
 <br><br>
 
 <div id="skills">
+
+### Few software and frameworks I'm proficient in 
+
 <p align="left">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 
