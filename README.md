@@ -60,14 +60,15 @@
 - ⚡ Fun fact: I like Pink Floyd.
 </div>
 
-
+<br>
 
 <div id="links">
 
-### You can view my <a href="https://benahalkar.github.io/" style="color: #ffff00; font-style: italic;">portfolio website</a>.
+### You can view my <a href="https://benahalkar.github.io/" target="_blank" style="color: #ffff00; font-style: italic;">portfolio website</a>.
 </div>
 
 
+<br><br>
 
 <div id="skills">
 <p align="left">
