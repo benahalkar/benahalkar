@@ -51,13 +51,13 @@
 <div id="about">
 
 # Hi, I'm Harsh! 👋
-
+<br>
 ### I'm an Engineer
-
-- 🌱 I’m currently working on Computer Vision, Industrial Linux Embedded systems, and Industrial IoT.
-- 👀 I’m interested in electronics, programming, mathematics, mechanics, and astronomy.
-- 🤖 I’m looking to collaborate on home-automation and robotics.
-- ⚡ Fun fact: I like Pink Floyd.
+<br>
+- 🌱 I’m currently working on Computer Vision, Industrial Linux Embedded systems, and Industrial IoT.<br>
+- 👀 I’m interested in electronics, programming, mathematics, mechanics, and astronomy.<br>
+- 🤖 I’m looking to collaborate on home-automation and robotics.<br>
+- ⚡ Fun fact: I like Pink Floyd.<br>
 </div>
 
 <div id="links">
