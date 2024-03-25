@@ -3,7 +3,7 @@
 # Hi, I'm Harsh! 👋
 <br>
 
-### I'm an Engineer
+<!-- ### I'm an Engineer -->
 <br>
 - 🌱 I’m currently working on Computer Vision, Industrial Linux Embedded systems, and Industrial IoT.<br>
 - 👀 I’m interested in electronics, programming, mathematics, mechanics, and astronomy.<br>
@@ -25,9 +25,7 @@
 
 </div>
 
-<br><br>
-
-
+<br>
 <div id="skills">
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
