@@ -1,10 +1,31 @@
-<div id="about">
 
-# Hi, I'm Harsh! 👋
+<div id="name">
+
+# Hi, I'm Harsh Benahalkar! 👋
 <br>
 
 <!-- ### I'm an Engineer -->
 <br>
+</div>
+
+<div id="about">
+
+Hey there,
+
+I'm Harsh Benahalkar. You've stumbled upon my little corner on the internet, where I share my adventures and experiences in the realm of coding and technology.
+
+I'm a master's student in Electrical Engineering at Columbia University with a deep-seated passion for Deep Learning, Distributed Systems, and Natural Language Processing. My journey here reflects my love for exploration and experimentation, constantly seeking to push boundaries and expand my horizons.
+
+With a background in Electronics and Telecommunication, coupled with a work expere I bring a blend of experience and curiosity to everything I do. Whether it's crafting elegant code or tinkering with the latest tools and frameworks, I'm always up for a challenge.
+
+Here on my profile, you'll find a mix of projects, contributions, and musings. It's a snapshot of my ongoing journey - the victories, the failures, and everything in between.
+
+I'm a firm believer in the power of collaboration and community. That's why I actively contribute to open-source projects and engage in discussions with fellow enthusiasts. After all, we're all in this together, learning and growing as we go.
+
+If you share my enthusiasm for technology and innovation, I'd love to connect. Drop me a message, share your thoughts, or let's even collaborate on something cool. The possibilities are endless, and the journey is always better with company.
+
+So welcome, and thanks for stopping by. Let's embark on this adventure together.
+
 - 🌱 I’m currently working on Computer Vision, Industrial Linux Embedded systems, and Industrial IoT.<br>
 - 👀 I’m interested in electronics, programming, mathematics, mechanics, and astronomy.<br>
 - 🤖 I’m looking to collaborate on home-automation and robotics.<br>
