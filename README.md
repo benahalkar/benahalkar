@@ -19,9 +19,16 @@
 
 <br><br>
 
-<div id="skills">
+<div id="skills_text">
+    
+### Few software and frameworks I'm proficient in
 
-### Few software and frameworks I'm proficient in 
+</div>
+
+<br><br>
+
+
+<div id="skills">
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 
@@ -58,4 +65,15 @@
 <img src="./images/scikit.png" alt="Scikit" height="40" style="vertical-align:top; margin:4px">
 </div>
 
+<style>
+    #skills {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+        grid-gap: 10px;
+    }
 
+    #skills img {
+        max-width: 100%;
+        height: auto;
+    }
+</style>
