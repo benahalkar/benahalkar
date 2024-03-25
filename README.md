@@ -10,7 +10,7 @@
 
 <div id="about">
 
-Hey there,
+<!-- Hey there,
 
 I'm Harsh Benahalkar. You've stumbled upon my little corner on the internet, where I share my adventures and experiences in the realm of coding and technology.
 
@@ -24,7 +24,7 @@ I'm a firm believer in the power of collaboration and community. That's why I ac
 
 If you share my enthusiasm for technology and innovation, I'd love to connect. Drop me a message, share your thoughts, or let's even collaborate on something cool. The possibilities are endless, and the journey is always better with company.
 
-So welcome, and thanks for stopping by. Let's embark on this adventure together.
+So welcome, and thanks for stopping by. Let's embark on this adventure together. -->
 
 - 🌱 I’m currently working on Computer Vision, Industrial Linux Embedded systems, and Industrial IoT.<br>
 - 👀 I’m interested in electronics, programming, mathematics, mechanics, and astronomy.<br>
