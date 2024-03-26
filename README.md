@@ -10,26 +10,22 @@
 
 <div id="about">
 
-<!-- Hey there,
+Welcome to my little digital corner. Here you can find a decent snapshot of my past and my ongoing journey - the learnings, the acomplishments, and everything in between. This portfolio briefly describes me and showcases my projects - a mix of hardware, software, and some with both. You can also find all relevant documents and links about me here with ways to contact me if you wish to.<br>
 
-I'm Harsh Benahalkar. You've stumbled upon my little corner on the internet, where I share my adventures and experiences in the realm of coding and technology.
+I am currently a Electrical engineering masters' student at Columbia University, New York. My specialization in Distributed Systems, Natural Language Processing, and Machine Learning is fueled by my passion to learn and contribute to the cloud and Industry 4.0 revolution. My Bachelors, which I received back in 2021 in Electronics and Telecommunications engineering provided me with a good insight into domains like Image Processing, Signal Processing, Operations Research, Calculus, VLSI, Radio Frequency Communication, Wireless Communication. Here I had contributed extensively to my electric vehicle FSAE team - by building wiring systems, high grade hardware circuit boards, and reliable control unit programs, because I wanted to be a part of the EV revolution.<br>
 
-I'm a master's student in Electrical Engineering at Columbia University with a deep-seated passion for Deep Learning, Distributed Systems, and Natural Language Processing. My journey here reflects my love for exploration and experimentation, constantly seeking to push boundaries and expand my horizons.
+And in the two interim years, I worked at a startup - building end-to-end solutions for factories to fuel the Industry 3.0 revolution in India. Applications developed have included solutions in Computer Vision, GSM-4G, etc. Throughout my journey starting from my undergrad, till now - I have worked in distinct domains, and they have helped me amase a gigantic repository of software and work skills. Skills, that have helped me become one of a kind, and those that have reshaped my attitude.<br>  
 
-With a background in Electronics and Telecommunication, coupled with a work expere I bring a blend of experience and curiosity to everything I do. Whether it's crafting elegant code or tinkering with the latest tools and frameworks, I'm always up for a challenge.
+Every project that I have worked on has taught me something new, and I have always returned the favour by making it impactiful. Not only must a project look good, but it must also be reliable and user-friendly.<br>  
 
-Here on my profile, you'll find a mix of projects, contributions, and musings. It's a snapshot of my ongoing journey - the victories, the failures, and everything in between.
+When not working on a computer or on a PCB, you can find me doing just about anything. I like to cook, paint, practice calligraphy, or just roam in the city. I have lived in Mumbai and New York, so you'd imagine I never run out of options to do something.<br>
 
-I'm a firm believer in the power of collaboration and community. That's why I actively contribute to open-source projects and engage in discussions with fellow enthusiasts. After all, we're all in this together, learning and growing as we go.
+So welcome, and thanks for stopping by. If you have any feedback, or if you would like to work together, or just chat... you can always reach out to me.
 
-If you share my enthusiasm for technology and innovation, I'd love to connect. Drop me a message, share your thoughts, or let's even collaborate on something cool. The possibilities are endless, and the journey is always better with company.
-
-So welcome, and thanks for stopping by. Let's embark on this adventure together. -->
-
-- 🌱 I’m currently working on Computer Vision, Industrial Linux Embedded systems, and Industrial IoT.<br>
+<!-- - 🌱 I’m currently working on Computer Vision, Industrial Linux Embedded systems, and Industrial IoT.<br>
 - 👀 I’m interested in electronics, programming, mathematics, mechanics, and astronomy.<br>
 - 🤖 I’m looking to collaborate on home-automation and robotics.<br>
-- ⚡ Fun fact: I like Pink Floyd.<br>
+- ⚡ Fun fact: I like Pink Floyd.<br> -->
 </div>
 
 <div id="links">
@@ -38,7 +34,7 @@ So welcome, and thanks for stopping by. Let's embark on this adventure together.
 </div>
 
 
-<br><br>
+<br>
 
 <div id="skills_text">
     
