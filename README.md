@@ -30,7 +30,7 @@ So welcome, and thanks for stopping by. If you have any feedback, or if you woul
 
 <div id="links">
 
-### You can view my <a href="https://benahalkar.github.io/" target="_blank">portfolio website</a>.
+### You can view my <a href="https://benahalkar.github.io/" target="_blank">portfolio website</a> to read more about me and my projects.
 </div>
 
 
