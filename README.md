@@ -10,22 +10,18 @@
 
 <div id="about">
 
-Welcome to my little digital corner. Here you can find a decent snapshot of my past and my ongoing journey - the learnings, the accomplishments, and everything in between. This portfolio briefly describes me and showcases my projects - a mix of software, hardware, and some with both. You can also find all relevant documents and links about me here with ways to contact me if you wish to.<br>
+Welcome to my little digital corner. Here you can find a decent snapshot of my past and my ongoing journey including my learnings, accomplishments, and everything in between. This portfolio briefly describes me and showcases my projects - a mix of software, hardware, and some with both. You can also find all ways to contact me if you wish to connect.<br>
 
-I am currently an Electrical Engineering master's student at Columbia University, New York. My specialization in Distributed Systems, Natural Language Processing, and Machine Learning is fueled by my passion to learn and contribute to the cloud and Industry 4.0 revolution. My Bachelors, which I received back in 2021 in Electronics and Telecommunications engineering provided me with a good insight into domains like Image Processing, Signal Processing, and Communication. During my undergrad, I contributed extensively to my electric vehicle FSAE team - by building wiring systems, high-grade hardware circuit boards, and reliable control unit programs for a single-seater electric race car, because I wanted to be a part of the EV revolution.<br>
+Currently, I am an Electrical Engineering master's student from Columbia University, specializing in Distributed Systems, Natural Language Processing, and Machine Learning. My interest in the cloud and Industry 4.0 revolution fuels my passion to learn and contribute. I completed my Bachelors in Electronics and Telecommunications Engineering in 2021. During my undergrad, I contributed extensively to my electric vehicle FSAE team and contributed to the EV revolution.<br>
 
-In the two interim years, I worked at a startup - building end-to-end solutions for factories, to fuel the Industry 3.0 revolution in India. Applications developed have included solutions in Computer Vision, GSM-4G, etc.<br> 
+In the two interim years, I worked at a startup - building end-to-end solutions for factories to fuel the Industry 3.0 revolution in India.<br> 
 
-Throughout my journey starting from my undergrad, till now - I have worked in distinct domains, and they have helped me amass a gigantic repository of software and work skills. Skills, that have helped me become one of a kind, and those that have also influenced my work ethics. Every project that I have worked on has taught me something new, and I have always returned the favor by making it impactful. Not only must a project look good, but it must also be reliable and user-friendly.<br>  
+Throughout my journey starting from my undergrad, till now - I have worked in various domains, and they have helped me amass a gigantic repository of software and work skills. Skills, that have helped me become one of a kind, and those that have also influenced my work ethics. Every project that I have worked on has taught me something new, and I have always returned the favor by making it impactful. I firmly believe that a project must not only look good, but it must also be reliable and user-friendly.<br>  
 
-When not working on a computer or a PCB, you can find me doing just about anything. I like to cook, paint, practice calligraphy, or just roam in the city. I have lived in Mumbai and New York, so you'd imagine I never run out of options to do something.<br>
+When not working, I enjoy cooking, painting, practicing calligraphy, or just exploring the city. Having lived in Mumbai and New York never leaves me without options.<br>
 
-So welcome, and thanks for stopping by. If you have any feedback, or if you would like to work together, or just chat... you can always reach out to me.
+So welcome, and thanks for stopping by. If you have any feedback, or if you would like to work together, or just chat... you know how to reach out to me.
 
-<!-- - 🌱 I’m currently working on Computer Vision, Industrial Linux Embedded systems, and Industrial IoT.<br>
-- 👀 I’m interested in electronics, programming, mathematics, mechanics, and astronomy.<br>
-- 🤖 I’m looking to collaborate on home-automation and robotics.<br>
-- ⚡ Fun fact: I like Pink Floyd.<br> -->
 </div>
 
 <div id="links">
