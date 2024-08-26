@@ -74,5 +74,11 @@ So welcome, and thanks for stopping by. If you have any feedback, or if you woul
 <img src="./images/tensorflow.png" alt="Tensorflow" height="40" style="vertical-align:top; margin:4px">
 
 <img src="./images/scikit.png" alt="Scikit" height="40" style="vertical-align:top; margin:4px">
+
+<img src="./images/github.png" alt="Github" height="40" style="vertical-align:top; margin:4px">
+
+<img src="./images/huggingface.png" alt="HuggingFace" height="40" style="vertical-align:top; margin:4px">
+
+<img src="./images/html_css_js.png" alt="HtmlCssJs" height="40" style="vertical-align:top; margin:4px">
 </div>
 
