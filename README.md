@@ -79,8 +79,16 @@ So welcome, and thanks for stopping by. If you have any feedback, or if you woul
     <td style="padding: 10px 10px;"><img src="./images/javascript.png" alt="Javascript" height="40"></td>
     <td style="padding: 10px 10px;"><img src="./images/vim.png" alt="Vim" height="40"></td>
     <td style="padding: 10px 10px;"><img src="./images/nodejs.png" alt="NodeJS" height="40"></td>
+    <td style="padding: 10px 10px;"><img src="./images/vscode.png" alt="VSCode" height="40"></td>
+    <td style="padding: 10px 10px;"><img src="./images/github.png" alt="Github" height="40"></td>
+    <td style="padding: 10px 10px;"><img src="./images/java.png" alt="Java" height="40"></td>
+    <td style="padding: 10px 10px;"><img src="./images/R.png" alt="R" height="40"></td>
   </tr>
   <tr>
+    <td style="padding: 10px 10px;"><img src="./images/python.png" alt="Python" height="40"></td>
+    <td style="padding: 10px 10px;"><img src="./images/javascript.png" alt="Javascript" height="40"></td>
+    <td style="padding: 10px 10px;"><img src="./images/vim.png" alt="Vim" height="40"></td>
+    <td style="padding: 10px 10px;"><img src="./images/nodejs.png" alt="NodeJS" height="40"></td>
     <td style="padding: 10px 10px;"><img src="./images/vscode.png" alt="VSCode" height="40"></td>
     <td style="padding: 10px 10px;"><img src="./images/github.png" alt="Github" height="40"></td>
     <td style="padding: 10px 10px;"><img src="./images/java.png" alt="Java" height="40"></td>
