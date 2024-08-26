@@ -41,17 +41,29 @@ So welcome, and thanks for stopping by. If you have any feedback, or if you woul
 <br>
 <div id="skills">
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<!-- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> -->
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<!-- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px"> -->
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+<!-- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px"> -->
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJS" height="40" style="vertical-align:top; margin:4px">
+<!-- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJS" height="40" style="vertical-align:top; margin:4px"> -->
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="cmd" height="40" style="vertical-align:top; margin:4px">
+<!-- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="cmd" height="40" style="vertical-align:top; margin:4px"> -->
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
+<!-- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" height="40" style="vertical-align:top; margin:4px"> -->
+
+<img src="./images/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+
+<img src="./images/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+
+<img src="./images/vim.png" alt="Vim" height="40" style="vertical-align:top; margin:4px">
+
+<img src="./images/nodejs.png" alt="NodeJS" height="40" style="vertical-align:top; margin:4px">
+
+<img src="./images/vscode.png" alt="VSCode" height="40" style="vertical-align:top; margin:4px">
+
+<img src="./images/java.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
 
 <img src="./images/R.png" alt="R" height="40" style="vertical-align:top; margin:4px">
 
@@ -75,7 +87,7 @@ So welcome, and thanks for stopping by. If you have any feedback, or if you woul
 
 <img src="./images/scikit.png" alt="Scikit" height="40" style="vertical-align:top; margin:4px">
 
-<img src="./images/github.png" alt="Github" height="40" style="vertical-align:top; margin:4px">
+<img src="./images/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
 
 <img src="./images/huggingface.png" alt="HuggingFace" height="40" style="vertical-align:top; margin:4px">
 
