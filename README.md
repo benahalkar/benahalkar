@@ -39,36 +39,51 @@ So welcome, and thanks for stopping by. If you have any feedback, or if you woul
 </div>
 
 <br>
-<p align="center">
 
-<!-- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> -->
-<!-- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px"> -->
-<!-- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px"> -->
-<!-- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJS" height="40" style="vertical-align:top; margin:4px"> -->
-<!-- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="cmd" height="40" style="vertical-align:top; margin:4px"> -->
-<!-- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" height="40" style="vertical-align:top; margin:4px"> -->
+<!-- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJS" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="cmd" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" height="40" style="vertical-align:top; margin:4px"> -->
 
-<img src="./images/python.png" alt="Python" height="40" style="margin: 20px 30px;">
-<img src="./images/javascript.png" alt="Javascript" height="40" style="margin: 20px 30px;">
-<img src="./images/vim.png" alt="Vim" height="40" style="margin: 20px 30px;">
-<img src="./images/nodejs.png" alt="NodeJS" height="40" style="margin: 20px 30px;">
-<img src="./images/vscode.png" alt="VSCode" height="40" style="margin: 20px 30px;">
-<img src="./images/github.png" alt="Github" height="40" style="margin: 20px 30px;">
-<img src="./images/java.png" alt="Java" height="40" style="margin: 20px 30px;">
-<img src="./images/R.png" alt="R" height="40" style="margin: 20px 30px;">
-<img src="./images/gcp.webp" alt="GCP" height="40" style="margin: 20px 30px;">
-<img src="./images/hadoop.svg" alt="Hadoop" height="40" style="margin: 20px 30px;">
-<img src="./images/linux.png" alt="Linux" height="40" style="margin: 20px 30px;">
-<img src="./images/nodered.svg" alt="Nodered" height="40" style="margin: 20px 30px;">
-<img src="./images/altium.png" alt="Altium" height="40" style="margin: 20px 30px;">
-<img src="./images/c.png" alt="C" height="40" style="margin: 20px 30px;">
-<img src="./images/cpp.png" alt="C++" height="40" style="margin: 20px 30px;">
-<img src="./images/airflow.png" alt="Airflow" height="40" style="margin: 20px 30px;">
-<img src="./images/tensorflow.png" alt="Tensorflow" height="40" style="margin: 20px 30px;">
-<img src="./images/scikit.png" alt="Scikit" height="40" style="margin: 20px 30px;">
-<img src="./images/git.png" alt="Git" height="40" style="margin: 20px 30px;">
-<img src="./images/huggingface.png" alt="HuggingFace" height="40" style="margin: 20px 30px;">
-<img src="./images/html_css_js.png" alt="HtmlCssJs" height="40" style="margin: 20px 30px;">
+<!-- <p align="center">
 
-</p>
+<img src="./images/python.png" alt="Python" height="40" style="margin: 10px;">
+<img src="./images/javascript.png" alt="Javascript" height="40" style="margin: 10px;">
+<img src="./images/vim.png" alt="Vim" height="40" style="margin: 10px;">
+<img src="./images/nodejs.png" alt="NodeJS" height="40" style="margin: 10px;">
+<img src="./images/vscode.png" alt="VSCode" height="40" style="margin: 10px;">
+<img src="./images/github.png" alt="Github" height="40" style="margin: 10px;">
+<img src="./images/java.png" alt="Java" height="40" style="margin: 10px;">
+<img src="./images/R.png" alt="R" height="40" style="margin: 10px;">
+<img src="./images/gcp.webp" alt="GCP" height="40" style="margin: 10px;">
+<img src="./images/hadoop.svg" alt="Hadoop" height="40" style="margin: 10px;">
+<img src="./images/linux.png" alt="Linux" height="40" style="margin: 10px;">
+<img src="./images/nodered.svg" alt="Nodered" height="40" style="margin: 10px;">
+<img src="./images/altium.png" alt="Altium" height="40" style="margin: 10px;">
+<img src="./images/c.png" alt="C" height="40" style="margin: 10px;">
+<img src="./images/cpp.png" alt="C++" height="40" style="margin: 10px;">
+<img src="./images/airflow.png" alt="Airflow" height="40" style="margin: 10px;">
+<img src="./images/tensorflow.png" alt="Tensorflow" height="40" style="margin: 10px;">
+<img src="./images/scikit.png" alt="Scikit" height="40" style="margin: 10px;">
+<img src="./images/git.png" alt="Git" height="40" style="margin: 10px;">
+<img src="./images/huggingface.png" alt="HuggingFace" height="40" style="margin: 10px;">
+<img src="./images/html_css_js.png" alt="HtmlCssJs" height="40" style="margin: 10px;">
 
+</p> -->
+
+<table align="center">
+  <tr>
+    <td style="padding: 10px 10px;"><img src="./images/python.png" alt="Python" height="40"></td>
+    <td style="padding: 10px 10px;"><img src="./images/javascript.png" alt="Javascript" height="40"></td>
+    <td style="padding: 10px 10px;"><img src="./images/vim.png" alt="Vim" height="40"></td>
+    <td style="padding: 10px 10px;"><img src="./images/nodejs.png" alt="NodeJS" height="40"></td>
+  </tr>
+  <tr>
+    <td style="padding: 10px 10px;"><img src="./images/vscode.png" alt="VSCode" height="40"></td>
+    <td style="padding: 10px 10px;"><img src="./images/github.png" alt="Github" height="40"></td>
+    <td style="padding: 10px 10px;"><img src="./images/java.png" alt="Java" height="40"></td>
+    <td style="padding: 10px 10px;"><img src="./images/R.png" alt="R" height="40"></td>
+  </tr>
+</table>
