@@ -134,6 +134,16 @@ So welcome, and thanks for stopping by. If you have any feedback, or if you woul
     <td style="padding: 10px 10px; border: none;"><img src="./images/bash.png" alt="Bash" height="40"></td>
     <td style="padding: 10px 10px; border: none;"><img src="./images/ifttt.png" alt="IFTTT" height="40"></td>
   </tr>
+  <tr>
+    <td style="padding: 10px 10px; border: none;"><img src="" alt="" height="40"></td>
+    <td style="padding: 10px 10px; border: none;"><img src="" alt="" height="40"></td>
+    <td style="padding: 10px 10px; border: none;"><img src="" alt="" height="40"></td>
+    <td style="padding: 10px 10px; border: none;"><img src="./images/markdown.png" alt="Markdown" height="40"></td>
+    <td style="padding: 10px 10px; border: none;"><img src="./images/aws.png" alt="AWS" height="40"></td>
+    <td style="padding: 10px 10px; border: none;"><img src="" alt="" height="40"></td>
+    <td style="padding: 10px 10px; border: none;"><img src="" alt="" height="40"></td>
+    <td style="padding: 10px 10px; border: none;"><img src="" alt="" height="40"></td>
+  </tr>
   <!-- <tr>
     <td style="padding: 10px 10px; border: none;"><img src="" alt="" height="40"></td>
     <td style="padding: 10px 10px; border: none;"><img src="" alt="" height="40"></td>
