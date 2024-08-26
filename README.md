@@ -73,7 +73,7 @@ So welcome, and thanks for stopping by. If you have any feedback, or if you woul
 
 </p> -->
 
-<table align="center">
+<table align="center" style="border-collapse: collapse; border: none;">
   <tr>
     <td style="padding: 10px 10px;"><img src="./images/python.png" alt="Python" height="40"></td>
     <td style="padding: 10px 10px;"><img src="./images/javascript.png" alt="Javascript" height="40"></td>
