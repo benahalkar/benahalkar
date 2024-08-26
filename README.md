@@ -95,10 +95,13 @@ So welcome, and thanks for stopping by. If you have any feedback, or if you woul
     <td style="padding: 10px 10px; border: none;"><img src="./images/airflow.png" alt="Airflow" height="40"></td>
   </tr>
   <tr>
+    <td style="padding: 10px 10px; border: none;"></td>
     <td style="padding: 10px 10px; border: none;"><img src="./images/tensorflow.png" alt="Tensorflow" height="40"></td>
     <td style="padding: 10px 10px; border: none;"><img src="./images/scikit.png" alt="Scikit" height="40"></td>
     <td style="padding: 10px 10px; border: none;"><img src="./images/git.png" alt="Git" height="40"></td>
     <td style="padding: 10px 10px; border: none;"><img src="./images/huggingface.png" alt="HuggingFace" height="40"></td>
     <td style="padding: 10px 10px; border: none;"><img src="./images/html_css_js.png" alt="HtmlCssJs" height="40"></td>
+    <td style="padding: 10px 10px; border: none;"></td>
+    <td style="padding: 10px 10px; border: none;"></td>
   </tr>  
 </table>
