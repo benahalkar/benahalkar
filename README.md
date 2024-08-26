@@ -95,13 +95,53 @@ So welcome, and thanks for stopping by. If you have any feedback, or if you woul
     <td style="padding: 10px 10px; border: none;"><img src="./images/airflow.png" alt="Airflow" height="40"></td>
   </tr>
   <tr>
-    <td style="padding: 10px 10px; border: none;"></td>
+    <td style="padding: 10px 10px; border: none;"><img src="./images/matplotlib.png" alt="MatplotLib" height="40"</td>
     <td style="padding: 10px 10px; border: none;"><img src="./images/tensorflow.png" alt="Tensorflow" height="40"></td>
     <td style="padding: 10px 10px; border: none;"><img src="./images/scikit.png" alt="Scikit" height="40"></td>
     <td style="padding: 10px 10px; border: none;"><img src="./images/git.png" alt="Git" height="40"></td>
     <td style="padding: 10px 10px; border: none;"><img src="./images/huggingface.png" alt="HuggingFace" height="40"></td>
-    <td style="padding: 10px 10px; border: none;"><img src="./images/html_css_js.png" alt="HtmlCssJs" height="40"></td>
-    <td style="padding: 10px 10px; border: none;"></td>
-    <td style="padding: 10px 10px; border: none;"></td>
+    <td style="padding: 10px 10px; border: none;"><img src="./images/slack.png" alt="Slack" height="40"></td>
+    <td style="padding: 10px 10px; border: none;"><img src="./images/debian.png" alt="Debian" height="40"></td>
+    <td style="padding: 10px 10px; border: none;"><img src="./images/rpi.png" alt="RaspberryPi" height="40"></td>
   </tr>  
+  <tr>
+    <td style="padding: 10px 10px; border: none;"><img src="./images/docker.png" alt="Docker" height="40"></td>
+    <td style="padding: 10px 10px; border: none;"><img src="./images/plotly.png" alt="Plotly" height="40"></td>
+    <td style="padding: 10px 10px; border: none;"><img src="./images/opencv.png" alt="OpenCV" height="40"></td>
+    <td style="padding: 10px 10px; border: none;"><img src="./images/arduino.png" alt="Arduino" height="40"></td>
+    <td style="padding: 10px 10px; border: none;"><img src="./images/D3js.png" alt="D3js" height="40"></td>
+    <td style="padding: 10px 10px; border: none;"><img src="./images/filezilla.png" alt="FileZilla" height="40"></td>
+    <td style="padding: 10px 10px; border: none;"><img src="./images/grafana.png" alt="Grafana" height="40"></td>
+    <td style="padding: 10px 10px; border: none;"><img src="./images/insomnia.png" alt="Insomnia" height="40"></td>
+  </tr>
+  <tr>
+    <td style="padding: 10px 10px; border: none;"><img src="./images/html.png" alt="HTML" height="40"></td>
+    <td style="padding: 10px 10px; border: none;"><img src="./images/css.png" alt="CSS" height="40"></td>
+    <td style="padding: 10px 10px; border: none;"><img src="./images/jupyter.png" alt="Jupyter" height="40"></td>
+    <td style="padding: 10px 10px; border: none;"><img src="./images/keras.png" alt="Keras" height="40"></td>
+    <td style="padding: 10px 10px; border: none;"><img src="./images/matlab.png" alt="Matlab" height="40"></td>
+    <td style="padding: 10px 10px; border: none;"><img src="./images/numpy.png" alt="Numpy" height="40"></td>
+    <td style="padding: 10px 10px; border: none;"><img src="./images/postgresql.png" alt="PostgreSQL" height="40"></td>
+    <td style="padding: 10px 10px; border: none;"><img src="./images/pandas.png" alt="Pandas" height="40"></td>
+  </tr>
+  <tr>
+    <td style="padding: 10px 10px; border: none;"><img src="./images/putty.png" alt="Putty" height="40"></td>
+    <td style="padding: 10px 10px; border: none;"><img src="./images/processing.png" alt="Processing" height="40"></td>
+    <td style="padding: 10px 10px; border: none;"><img src="./images/python.png" alt="PyTorch" height="40"></td>
+    <td style="padding: 10px 10px; border: none;"><img src="./images/sqlite.png" alt="Sqlite" height="40"></td>
+    <td style="padding: 10px 10px; border: none;"><img src="./images/jquery.png" alt="JQuery" height="40"></td>
+    <td style="padding: 10px 10px; border: none;"><img src="./images/apachebeam.png" alt="ApacheBeam" height="40"></td>
+    <td style="padding: 10px 10px; border: none;"><img src="./images/bash.png" alt="Bash" height="40"></td>
+    <td style="padding: 10px 10px; border: none;"><img src="./images/ifttt.png" alt="IFTTT" height="40"></td>
+  </tr>
+  <!-- <tr>
+    <td style="padding: 10px 10px; border: none;"><img src="" alt="" height="40"></td>
+    <td style="padding: 10px 10px; border: none;"><img src="" alt="" height="40"></td>
+    <td style="padding: 10px 10px; border: none;"><img src="" alt="" height="40"></td>
+    <td style="padding: 10px 10px; border: none;"><img src="" alt="" height="40"></td>
+    <td style="padding: 10px 10px; border: none;"><img src="" alt="" height="40"></td>
+    <td style="padding: 10px 10px; border: none;"><img src="" alt="" height="40"></td>
+    <td style="padding: 10px 10px; border: none;"><img src="" alt="" height="40"></td>
+    <td style="padding: 10px 10px; border: none;"><img src="" alt="" height="40"></td>
+  </tr> -->
 </table>
