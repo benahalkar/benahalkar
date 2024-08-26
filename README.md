@@ -85,13 +85,20 @@ So welcome, and thanks for stopping by. If you have any feedback, or if you woul
     <td style="padding: 10px 10px; border: none;"><img src="./images/R.png" alt="R" height="40"></td>
   </tr>
   <tr>
-    <td style="padding: 10px 10px; border: none;"><img src="./images/python.png" alt="Python" height="40"></td>
-    <td style="padding: 10px 10px; border: none;"><img src="./images/javascript.png" alt="Javascript" height="40"></td>
-    <td style="padding: 10px 10px; border: none;"><img src="./images/vim.png" alt="Vim" height="40"></td>
-    <td style="padding: 10px 10px; border: none;"><img src="./images/nodejs.png" alt="NodeJS" height="40"></td>
-    <td style="padding: 10px 10px; border: none;"><img src="./images/vscode.png" alt="VSCode" height="40"></td>
-    <td style="padding: 10px 10px; border: none;"><img src="./images/github.png" alt="Github" height="40"></td>
-    <td style="padding: 10px 10px; border: none;"><img src="./images/java.png" alt="Java" height="40"></td>
-    <td style="padding: 10px 10px; border: none;"><img src="./images/R.png" alt="R" height="40"></td>
+    <td style="padding: 10px 10px; border: none;"><img src="./images/gcp.webp" alt="GCP" height="40"></td>
+    <td style="padding: 10px 10px; border: none;"><img src="./images/hadoop.svg" alt="Hadoop" height="40"></td>
+    <td style="padding: 10px 10px; border: none;"><img src="./images/linux.png" alt="Linux" height="40"></td>
+    <td style="padding: 10px 10px; border: none;"><img src="./images/nodered.svg" alt="Nodered" height="40"></td>
+    <td style="padding: 10px 10px; border: none;"><img src="./images/altium.png" alt="Altium" height="40"></td>
+    <td style="padding: 10px 10px; border: none;"><img src="./images/c.png" alt="C" height="40"></td>
+    <td style="padding: 10px 10px; border: none;"><img src="./images/cpp.png" alt="C++" height="40"></td>
+    <td style="padding: 10px 10px; border: none;"><img src="./images/airflow.png" alt="Airflow" height="40"></td>
   </tr>
+  <tr>
+    <td style="padding: 10px 10px; border: none;"><img src="./images/tensorflow.png" alt="Tensorflow" height="40"></td>
+    <td style="padding: 10px 10px; border: none;"><img src="./images/scikit.png" alt="Scikit" height="40"></td>
+    <td style="padding: 10px 10px; border: none;"><img src="./images/git.png" alt="Git" height="40"></td>
+    <td style="padding: 10px 10px; border: none;"><img src="./images/huggingface.png" alt="HuggingFace" height="40"></td>
+    <td style="padding: 10px 10px; border: none;"><img src="./images/html_css_js.png" alt="HtmlCssJs" height="40"></td>
+  </tr>  
 </table>
