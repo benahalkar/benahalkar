@@ -10,7 +10,7 @@
   </a>
 </h1> -->
 
-![INTRO](https://readme-typing-svg.demolab.com/?lines=Hello,+there!+👋;this+is+Harsh+BENAHALKAR+.+.+.;Nice+to+meet+you!&center=true&color=FFFFFF&size=30)
+![INTRO](https://readme-typing-svg.demolab.com/?lines=Hello,+there!+👋;this+is+Harsh+BENAHALKAR;Nice+to+meet+you!&center=true&color=FFFFFF&size=30)
 
 <br>
 
