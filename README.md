@@ -1,11 +1,16 @@
 
 <div id="name">
 
-# Hi, I'm Harsh Benahalkar! 👋
+<!-- # Hi, I'm Harsh Benahalkar! 👋 -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=800&size=30&pause=1000&color=FFFFFF&vCenter=true&repeat=true&width=480&height=40&lines=Hi%2C+I+am+Harsh+Benahalkar+%F0%9F%91%8B" alt="Typing SVG" /></a>
 <br>
 
 <!-- ### I'm an Engineer -->
 <br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-benahalkar/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hb2776@columbia.edu)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/benahalkar/)
 </div>
 
 <div id="about">
@@ -34,7 +39,7 @@ So welcome, and thanks for stopping by. If you have any feedback, or if you woul
 
 <div id="skills_text">
     
-### Few software and frameworks I'm proficient in
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Few languages and frameworks I love working with</b>
 
 </div>
 
@@ -155,3 +160,12 @@ So welcome, and thanks for stopping by. If you have any feedback, or if you woul
     <td style="padding: 10px 10px; border: none;"><img src="" alt="" height="40"></td>
   </tr> -->
 </table>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> My Github Stats </b>
+
+<!-- Github Stats -->
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=benahalkar&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&theme=github_dark&hide_border=true" alt="GitHub Stats" style="margin-right: 10px;" />
+
+</p>
