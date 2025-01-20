@@ -40,94 +40,381 @@ So welcome, and thanks for stopping by. If you have any feedback, or if you woul
 
 <div id="skills_text">
     
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Few languages and frameworks I love working with</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Few languages and frameworks I love (❤️) working with</b>
 
+</div>
+
+
+
+
+
+
+<div align="center">
+
+### Programming Languages
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 0px; justify-content: center; align-items: center;">
+    <div style="display: inline-block; background-color:rgb(36, 36, 36); border-radius: 100px; padding: 5px 10px; margin: 5px; height: 30px;">
+        <a href="https://www.python.org/" style="text-decoration: none; color: inherit; display: flex; align-items: center; height: 100%;">
+            <img src="./images/python.png" alt="Python" style="width: 20px; height: 20px; margin-right: 10px;">
+            <span style="color: rgb(255, 255, 255); font-size: 100%;">Python</span>
+        </a>
+    </div>
+    <div style="display: inline-block; background-color:rgb(36, 36, 36); border-radius: 100px; padding: 5px 10px; margin: 5px; height: 30px;">
+        <a href="https://jupyter.org/" style="text-decoration: none; color: inherit; display: flex; align-items: center; height: 100%;">
+            <img src="./images/jupyter.png" alt="Jupyter" style="width: 20px; height: 20px; margin-right: 10px;">
+            <span style="color: rgb(255, 255, 255); font-size: 100%;">Jupyter</span>
+        </a>
+    </div>
+    <div style="display: inline-block; background-color:rgb(36, 36, 36); border-radius: 100px; padding: 5px 10px; margin: 5px; height: 30px;">
+        <a href="https://www.r-project.org/" style="text-decoration: none; color: inherit; display: flex; align-items: center; height: 100%;">
+            <img src="./images/R.png" alt="R" style="width: 20px; height: 20px; margin-right: 10px;">
+            <span style="color: rgb(255, 255, 255); font-size: 100%;">R</span>
+        </a>
+    </div>
+    <div style="display: inline-block; background-color:rgb(36, 36, 36); border-radius: 100px; padding: 5px 10px; margin: 5px; height: 30px;">
+        <a href="https://www.cprogramming.com/" style="text-decoration: none; color: inherit; display: flex; align-items: center; height: 100%;">
+            <img src="./images/c.png" alt="C" style="width: 20px; height: 20px; margin-right: 10px;">
+            <span style="color: rgb(255, 255, 255); font-size: 100%;">C</span>
+        </a>
+    </div>
+    <div style="display: inline-block; background-color:rgb(36, 36, 36); border-radius: 100px; padding: 5px 10px; margin: 5px; height: 30px;">
+        <a href="https://www.mysql.com/" style="text-decoration: none; color: inherit; display: flex; align-items: center; height: 100%;">
+            <img src="./images/sqlite.png" alt="SQL" style="width: 20px; height: 20px; margin-right: 10px;">
+            <span style="color: rgb(255, 255, 255); font-size: 100%;">SQL</span>
+        </a>
+    </div>
+    <div style="display: inline-block; background-color:rgb(36, 36, 36); border-radius: 100px; padding: 5px 10px; margin: 5px; height: 30px;">
+        <a href="https://cplusplus.com/" style="text-decoration: none; color: inherit; display: flex; align-items: center; height: 100%;">
+            <img src="./images/cpp.png" alt="Cpp" style="width: 20px; height: 20px; margin-right: 10px;">
+            <span style="color: rgb(255, 255, 255); font-size: 100%;">C++</span>
+        </a>
+    </div>
+    <div style="display: inline-block; background-color:rgb(36, 36, 36); border-radius: 100px; padding: 5px 10px; margin: 5px; height: 30px;">
+        <a href="https://www.vim.org/" style="text-decoration: none; color: inherit; display: flex; align-items: center; height: 100%;">
+            <img src="./images/vim.png" alt="Vim" style="width: 20px; height: 20px; margin-right: 10px;">
+            <span style="color: rgb(255, 255, 255); font-size: 100%;">Vim</span>
+        </a>
+    </div>
+    <div style="display: inline-block; background-color:rgb(36, 36, 36); border-radius: 100px; padding: 5px 10px; margin: 5px; height: 30px;">
+        <a href="https://www.mathworks.com/products/matlab.html" style="text-decoration: none; color: inherit; display: flex; align-items: center; height: 100%;">
+            <img src="./images/matlab.png" alt="MATLAB" style="width: 20px; height: 20px; margin-right: 10px;">
+            <span style="color: rgb(255, 255, 255); font-size: 100%;">MATLAB</span>
+        </a>
+    </div>
+    <div style="display: inline-block; background-color:rgb(36, 36, 36); border-radius: 100px; padding: 5px 10px; margin: 5px; height: 30px;">
+        <a href="https://www.markdownguide.org/" style="text-decoration: none; color: inherit; display: flex; align-items: center; height: 100%;">
+            <img src="./images/markdown.png" alt="Markdown" style="width: 20px; height: 20px; margin-right: 10px;">
+            <span style="color: rgb(255, 255, 255); font-size: 100%;">Markdown</span>
+        </a>
+    </div>
+    <div style="display: inline-block; background-color:rgb(36, 36, 36); border-radius: 100px; padding: 5px 10px; margin: 5px; height: 30px;">
+        <a href="https://www.gnu.org/software/bash/" style="text-decoration: none; color: inherit; display: flex; align-items: center; height: 100%;">
+            <img src="./images/bash.png" alt="Bash" style="width: 20px; height: 20px; margin-right: 10px;">
+            <span style="color: rgb(255, 255, 255); font-size: 100%;">Bash Script</span>
+        </a>
+    </div>
+    <div style="display: inline-block; background-color:rgb(36, 36, 36); border-radius: 100px; padding: 5px 10px; margin: 5px; height: 30px;">
+        <a href="https://www.java.com/en/" style="text-decoration: none; color: inherit; display: flex; align-items: center; height: 100%;">
+            <img src="./images/java.png" alt="Java" style="width: 20px; height: 20px; margin-right: 10px;">
+            <span style="color: rgb(255, 255, 255); font-size: 100%;">Java</span>
+        </a>
+    </div>
+    <div style="display: inline-block; background-color:rgb(36, 36, 36); border-radius: 100px; padding: 5px 10px; margin: 5px; height: 30px;">
+        <a href="https://www.javascript.com/" style="text-decoration: none; color: inherit; display: flex; align-items: center; height: 100%;">
+            <img src="./images/javascript.png" alt="JavaScript" style="width: 20px; height: 20px; margin-right: 10px;">
+            <span style="color: rgb(255, 255, 255); font-size: 100%;">JavaScript</span>
+        </a>
+    </div>
+
+</div>
+
+
+<div align="center">
+
+### Frameworks
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 0px; justify-content: center; align-items: center;">
+    <div style="display: inline-block; background-color:rgb(36, 36, 36); border-radius: 100px; padding: 5px 10px; margin: 5px; height: 30px;">
+        <a href="https://pytorch.org/" style="text-decoration: none; color: inherit; display: flex; align-items: center; height: 100%;">
+            <img src="./images/pytorch.png" alt="PyTorch" style="width: 20px; height: 20px; margin-right: 10px;">
+            <span style="color: rgb(255, 255, 255); font-size: 100%;">PyTorch</span>
+        </a>
+    </div>
+    <div style="display: inline-block; background-color:rgb(36, 36, 36); border-radius: 100px; padding: 5px 10px; margin: 5px; height: 30px;">
+        <a href="https://www.tensorflow.org/" style="text-decoration: none; color: inherit; display: flex; align-items: center; height: 100%;">
+            <img src="./images/tensorflow.png" alt="Tensorflow" style="width: 20px; height: 20px; margin-right: 10px;">
+            <span style="color: rgb(255, 255, 255); font-size: 100%;">Tensorflow</span>
+        </a>
+    </div>
+    <div style="display: inline-block; background-color:rgb(36, 36, 36); border-radius: 100px; padding: 5px 10px; margin: 5px; height: 30px;">
+        <a href="https://keras.io/" style="text-decoration: none; color: inherit; display: flex; align-items: center; height: 100%;">
+            <img src="./images/keras.png" alt="Keras" style="width: 20px; height: 20px; margin-right: 10px;">
+            <span style="color: rgb(255, 255, 255); font-size: 100%;">Keras</span>
+        </a>
+    </div>
+    <div style="display: inline-block; background-color:rgb(36, 36, 36); border-radius: 100px; padding: 5px 10px; margin: 5px; height: 30px;">
+        <a href="https://huggingface.co/" style="text-decoration: none; color: inherit; display: flex; align-items: center; height: 100%;">
+            <img src="./images/huggingface.png" alt="HuggingFace" style="width: 20px; height: 20px; margin-right: 10px;">
+            <span style="color: rgb(255, 255, 255); font-size: 100%;">hugging Face</span>
+        </a>
+    </div>
+    <div style="display: inline-block; background-color:rgb(36, 36, 36); border-radius: 100px; padding: 5px 10px; margin: 5px; height: 30px;">
+        <a href="https://dondebonair.github.io/slack-machine/" style="text-decoration: none; color: inherit; display: flex; align-items: center; height: 100%;">
+            <img src="./images/slack.png" alt="SlackMachine" style="width: 20px; height: 20px; margin-right: 10px;">
+            <span style="color: rgb(255, 255, 255); font-size: 100%;">Slack machine</span>
+        </a>
+    </div>
+    <div style="display: inline-block; background-color:rgb(36, 36, 36); border-radius: 100px; padding: 5px 10px; margin: 5px; height: 30px;">
+        <a href="https://opencv.org/" style="text-decoration: none; color: inherit; display: flex; align-items: center; height: 100%;">
+            <img src="./images/opencv.png" alt="OpenCV" style="width: 20px; height: 20px; margin-right: 10px;">
+            <span style="color: rgb(255, 255, 255); font-size: 100%;">OpenCV</span>
+        </a>
+    </div>
+    <div style="display: inline-block; background-color:rgb(36, 36, 36); border-radius: 100px; padding: 5px 10px; margin: 5px; height: 30px;">
+        <a href="https://scikit-learn.org/stable/" style="text-decoration: none; color: inherit; display: flex; align-items: center; height: 100%;">
+            <img src="./images/scikit.png" alt="scikit-learn" style="width: 30px; height: 20px; margin-right: 10px;">
+            <span style="color: rgb(255, 255, 255); font-size: 100%;">Scikit-learn</span>
+        </a>
+    </div>
+    <div style="display: inline-block; background-color:rgb(36, 36, 36); border-radius: 100px; padding: 5px 10px; margin: 5px; height: 30px;">
+        <a href="https://numpy.org/" style="text-decoration: none; color: inherit; display: flex; align-items: center; height: 100%;">
+            <img src="./images/numpy.png" alt="numpy" style="width: 20px; height: 20px; margin-right: 10px;">
+            <span style="color: rgb(255, 255, 255); font-size: 100%;">Numpy</span>
+        </a>
+    </div>
+    <div style="display: inline-block; background-color:rgb(36, 36, 36); border-radius: 100px; padding: 5px 10px; margin: 5px; height: 30px;">
+        <a href="https://pandas.pydata.org/" style="text-decoration: none; color: inherit; display: flex; align-items: center; height: 100%;">
+            <img src="./images/pandas.png" alt="pandas" style="width: 20px; height: 20px; margin-right: 10px;">
+            <span style="color: rgb(255, 255, 255); font-size: 100%;">Pandas</span>
+        </a>
+    </div>
+</div>
+
+
+<div align="center">
+
+### Cloud Computing and Big Data
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 0px; justify-content: center; align-items: center;">
+    <div style="display: inline-block; background-color:rgb(36, 36, 36); border-radius: 100px; padding: 5px 10px; margin: 5px; height: 30px;">
+        <a href="https://cloud.google.com/" style="text-decoration: none; color: inherit; display: flex; align-items: center; height: 100%;">
+            <img src="./images/gcp.webp" alt="GCP" style="width: 25px; height: 20px; margin-right: 10px;">
+            <span style="color: rgb(255, 255, 255); font-size: 100%;">Google Cloud Platform</span>
+        </a>
+    </div>
+    <div style="display: inline-block; background-color:rgb(36, 36, 36); border-radius: 100px; padding: 5px 10px; margin: 5px; height: 30px;">
+        <a href="https://aws.amazon.com" style="text-decoration: none; color: inherit; display: flex; align-items: center; height: 100%;">
+            <img src="./images/aws.png" alt="AWS" style="width: 20px; height: 20px; margin-right: 10px;">
+            <span style="color: rgb(255, 255, 255); font-size: 100%;">Amazon Web Services</span>
+        </a>
+    </div>
+    <div style="display: inline-block; background-color:rgb(36, 36, 36); border-radius: 100px; padding: 5px 10px; margin: 5px; height: 30px;">
+        <a href="https://airflow.apache.org/" style="text-decoration: none; color: inherit; display: flex; align-items: center; height: 100%;">
+            <img src="./images/airflow.png" alt="Airflow" style="width: 20px; height: 20px; margin-right: 10px;">
+            <span style="color: rgb(255, 255, 255); font-size: 100%;">Apache Airflow</span>
+        </a>
+    </div>
+    <div style="display: inline-block; background-color:rgb(36, 36, 36); border-radius: 100px; padding: 5px 10px; margin: 5px; height: 30px;">
+        <a href="https://hadoop.apache.org/" style="text-decoration: none; color: inherit; display: flex; align-items: center; height: 100%;">
+            <img src="./images/hadoop.svg" alt="Hadoop" style="width: 20px; height: 20px; margin-right: 10px;">
+            <span style="color: rgb(255, 255, 255); font-size: 100%;">Apache Hadoop</span>
+        </a>
+    </div>
+    <div style="display: inline-block; background-color:rgb(36, 36, 36); border-radius: 100px; padding: 5px 10px; margin: 5px; height: 30px;">
+        <a href="https://jquery.com/" style="text-decoration: none; color: inherit; display: flex; align-items: center; height: 100%;">
+            <img src="./images/jquery.png" alt="jQuery" style="width: 20px; height: 20px; margin-right: 10px;">
+            <span style="color: rgb(255, 255, 255); font-size: 100%;">jQuery</span>
+        </a>
+    </div>
+    <div style="display: inline-block; background-color:rgb(36, 36, 36); border-radius: 100px; padding: 5px 10px; margin: 5px; height: 30px;">
+        <a href="https://www.postgresql.org/" style="text-decoration: none; color: inherit; display: flex; align-items: center; height: 100%;">
+            <img src="./images/postgresql.png" alt="PostgreSQL" style="width: 20px; height: 20px; margin-right: 10px;">
+            <span style="color: rgb(255, 255, 255); font-size: 100%;">PostgreSQL</span>
+        </a>
+    </div>
+    <div style="display: inline-block; background-color:rgb(36, 36, 36); border-radius: 100px; padding: 5px 10px; margin: 5px; height: 30px;">
+        <a href="https://beam.apache.org/" style="text-decoration: none; color: inherit; display: flex; align-items: center; height: 100%;">
+            <img src="./images/apachebeam.png" alt="Beam" style="width: 20px; height: 20px; margin-right: 10px;">
+            <span style="color: rgb(255, 255, 255); font-size: 100%;">Apache Beam</span>
+        </a>
+    </div>
+</div>
+
+
+<div align="center">
+
+### Visualization
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 0px; justify-content: center; align-items: center;">
+    <div style="display: inline-block; background-color:rgb(36, 36, 36); border-radius: 100px; padding: 5px 10px; margin: 5px; height: 30px;">
+        <a href="https://matplotlib.org/" style="text-decoration: none; color: inherit; display: flex; align-items: center; height: 100%;">
+            <img src="./images/matplotlib.png" alt="Matplotlib" style="width: 20px; height: 20px; margin-right: 10px;">
+            <span style="color: rgb(255, 255, 255); font-size: 100%;">Matplotlib</span>
+        </a>
+    </div>
+    <div style="display: inline-block; background-color:rgb(36, 36, 36); border-radius: 100px; padding: 5px 10px; margin: 5px; height: 30px;">
+        <a href="https://plotly.com/" style="text-decoration: none; color: inherit; display: flex; align-items: center; height: 100%;">
+            <img src="./images/plotly.png" alt="Plotly" style="width: 20px; height: 20px; margin-right: 10px;">
+            <span style="color: rgb(255, 255, 255); font-size: 100%;">Plotly</span>
+        </a>
+    </div>
+    <div style="display: inline-block; background-color:rgb(36, 36, 36); border-radius: 100px; padding: 5px 10px; margin: 5px; height: 30px;">
+        <a href="https://grafana.com/" style="text-decoration: none; color: inherit; display: flex; align-items: center; height: 100%;">
+            <img src="./images/grafana.png" alt="Grafana" style="width: 20px; height: 20px; margin-right: 10px;">
+            <span style="color: rgb(255, 255, 255); font-size: 100%;">Graphana</span>
+        </a>
+    </div>
+    <div style="display: inline-block; background-color:rgb(36, 36, 36); border-radius: 100px; padding: 5px 10px; margin: 5px; height: 30px;">
+        <a href="https://d3js.org/" style="text-decoration: none; color: inherit; display: flex; align-items: center; height: 100%;">
+            <img src="./images/d3js.png" alt="D3JS" style="width: 20px; height: 20px; margin-right: 10px;">
+            <span style="color: rgb(255, 255, 255); font-size: 100%;">D3js</span>
+        </a>
+    </div>
+    <div style="display: inline-block; background-color:rgb(36, 36, 36); border-radius: 100px; padding: 5px 10px; margin: 5px; height: 30px;">
+        <a href="https://processing.org/" style="text-decoration: none; color: inherit; display: flex; align-items: center; height: 100%;">
+            <img src="./images/processing.png" alt="Processing" style="width: 20px; height: 20px; margin-right: 10px;">
+            <span style="color: rgb(255, 255, 255); font-size: 100%;">Processing</span>
+        </a>
+    </div>
+</div>
+
+
+<div align="center">
+
+### Hardware and IoT
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 0px; justify-content: center; align-items: center;">
+    <div style="display: inline-block; background-color:rgb(36, 36, 36); border-radius: 100px; padding: 5px 10px; margin: 5px; height: 30px;">
+        <a href="https://www.arduino.cc/" style="text-decoration: none; color: inherit; display: flex; align-items: center; height: 100%;">
+            <img src="./images/arduino.png" alt="Arduino" style="width: 20px; height: 20px; margin-right: 10px;">
+            <span style="color: rgb(255, 255, 255); font-size: 100%;">Arduino</span>
+        </a>
+    </div>
+    <div style="display: inline-block; background-color:rgb(36, 36, 36); border-radius: 100px; padding: 5px 10px; margin: 5px; height: 30px;">
+        <a href="https://www.altium.com/" style="text-decoration: none; color: inherit; display: flex; align-items: center; height: 100%;">
+            <img src="./images/altium.png" alt="Altium" style="width: 20px; height: 20px; margin-right: 10px;">
+            <span style="color: rgb(255, 255, 255); font-size: 100%;">Altium</span>
+        </a>
+    </div>
+    <div style="display: inline-block; background-color:rgb(36, 36, 36); border-radius: 100px; padding: 5px 10px; margin: 5px; height: 30px;">
+        <a href="https://www.raspberrypi.com/" style="text-decoration: none; color: inherit; display: flex; align-items: center; height: 100%;">
+            <img src="./images/rpi.png" alt="RaspberryPi" style="width: 20px; height: 20px; margin-right: 10px;">
+            <span style="color: rgb(255, 255, 255); font-size: 100%;">Raspberry Pi</span>
+        </a>
+    </div>
+    <div style="display: inline-block; background-color:rgb(36, 36, 36); border-radius: 100px; padding: 5px 10px; margin: 5px; height: 30px;">
+        <a href="https://www.debian.org/" style="text-decoration: none; color: inherit; display: flex; align-items: center; height: 100%;">
+            <img src="./images/debian.png" alt="Debian" style="width: 20px; height: 20px; margin-right: 10px;">
+            <span style="color: rgb(255, 255, 255); font-size: 100%;">Debian</span>
+        </a>
+    </div>
+    <div style="display: inline-block; background-color:rgb(36, 36, 36); border-radius: 100px; padding: 5px 10px; margin: 5px; height: 30px;">
+        <a href="https://ifttt.com/" style="text-decoration: none; color: inherit; display: flex; align-items: center; height: 100%;">
+            <img src="./images/ifttt.png" alt="IFTTT" style="width: 20px; height: 20px; margin-right: 10px;">
+            <span style="color: rgb(255, 255, 255); font-size: 100%;">IFTTT</span>
+        </a>
+    </div>
+</div>
+
+
+<div align="center">
+
+### Web
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 0px; justify-content: center; align-items: center;">
+    <div style="display: inline-block; background-color:rgb(36, 36, 36); border-radius: 100px; padding: 5px 10px; margin: 5px; height: 30px;">
+        <a href="https://nodejs.org/en" style="text-decoration: none; color: inherit; display: flex; align-items: center; height: 100%;">
+            <img src="./images/nodejs.png" alt="NodeJS" style="width: 20px; height: 20px; margin-right: 10px;">
+            <span style="color: rgb(255, 255, 255); font-size: 100%;">Node JS</span>
+        </a>
+    </div>
+    <div style="display: inline-block; background-color:rgb(36, 36, 36); border-radius: 100px; padding: 5px 10px; margin: 5px; height: 30px;">
+        <a href="https://www.w3.org/" style="text-decoration: none; color: inherit; display: flex; align-items: center; height: 100%;">
+            <img src="./images/html.png" alt="HTML" style="width: 20px; height: 20px; margin-right: 10px;">
+            <span style="color: rgb(255, 255, 255); font-size: 100%;">HTML</span>
+        </a>
+    </div>
+    <div style="display: inline-block; background-color:rgb(36, 36, 36); border-radius: 100px; padding: 5px 10px; margin: 5px; height: 30px;">
+        <a href="https://www.w3.org/" style="text-decoration: none; color: inherit; display: flex; align-items: center; height: 100%;">
+            <img src="./images/css.png" alt="CSS" style="width: 20px; height: 20px; margin-right: 10px;">
+            <span style="color: rgb(255, 255, 255); font-size: 100%;">CSS</span>
+        </a>
+    </div>
+    <div style="display: inline-block; background-color:rgb(36, 36, 36); border-radius: 100px; padding: 5px 10px; margin: 5px; height: 30px;">
+        <a href="https://nodered.org/" style="text-decoration: none; color: inherit; display: flex; align-items: center; height: 100%;">
+            <img src="./images/nodered.svg" alt="Node-Red" style="width: 20px; height: 20px; margin-right: 10px;">
+            <span style="color: rgb(255, 255, 255); font-size: 100%;">Node-RED</span>
+        </a>
+    </div>
+
+</div>
+
+
+<div align="center">
+
+### Tools
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 0px; justify-content: center; align-items: center;">
+    <div style="display: inline-block; background-color:rgb(36, 36, 36); border-radius: 100px; padding: 5px 10px; margin: 5px; height: 30px;">
+        <a href="https://www.ibm.com/z/linux" style="text-decoration: none; color: inherit; display: flex; align-items: center; height: 100%;">
+            <img src="./images/linux.png" alt="Linux" style="width: 20px; height: 20px; margin-right: 10px;">
+            <span style="color: rgb(255, 255, 255); font-size: 100%;">Linux</span>
+        </a>
+    </div>
+    <div style="display: inline-block; background-color:rgb(36, 36, 36); border-radius: 100px; padding: 5px 10px; margin: 5px; height: 30px;">
+        <a href="https://code.visualstudio.com/" style="text-decoration: none; color: inherit; display: flex; align-items: center; height: 100%;">
+            <img src="./images/vscode.png" alt="VScode" style="width: 20px; height: 20px; margin-right: 10px;">
+            <span style="color: rgb(255, 255, 255); font-size: 100%;">VS Code</span>
+        </a>
+    </div>
+    <div style="display: inline-block; background-color:rgb(36, 36, 36); border-radius: 100px; padding: 5px 10px; margin: 5px; height: 30px;">
+        <a href="https://git-scm.com/" style="text-decoration: none; color: inherit; display: flex; align-items: center; height: 100%;">
+            <img src="./images/git.png" alt="Git" style="width: 20px; height: 20px; margin-right: 10px;">
+            <span style="color: rgb(255, 255, 255); font-size: 100%;">Git</span>
+        </a>
+    </div>
+    <div style="display: inline-block; background-color:rgb(36, 36, 36); border-radius: 100px; padding: 5px 10px; margin: 5px; height: 30px;">
+        <a href="https://www.docker.com/" style="text-decoration: none; color: inherit; display: flex; align-items: center; height: 100%;">
+            <img src="./images/docker.png" alt="Docker" style="width: 20px; height: 20px; margin-right: 10px;">
+            <span style="color: rgb(255, 255, 255); font-size: 100%;">Docker</span>
+        </a>
+    </div>
+    <div style="display: inline-block; background-color:rgb(36, 36, 36); border-radius: 100px; padding: 5px 10px; margin: 5px; height: 30px;">
+        <a href="https://github.com/" style="text-decoration: none; color: inherit; display: flex; align-items: center; height: 100%;">
+            <img src="./images/github.png" alt="Github" style="width: 20px; height: 20px; margin-right: 10px;">
+            <span style="color: rgb(255, 255, 255); font-size: 100%;">Github</span>
+        </a>
+    </div>
+    <div style="display: inline-block; background-color:rgb(36, 36, 36); border-radius: 100px; padding: 5px 10px; margin: 5px; height: 30px;">
+        <a href="https://www.putty.org/" style="text-decoration: none; color: inherit; display: flex; align-items: center; height: 100%;">
+            <img src="./images/putty.png" alt="Putty" style="width: 20px; height: 20px; margin-right: 10px;">
+            <span style="color: rgb(255, 255, 255); font-size: 100%;">Putty</span>
+        </a>
+    </div>
+    <div style="display: inline-block; background-color:rgb(36, 36, 36); border-radius: 100px; padding: 5px 10px; margin: 5px; height: 30px;">
+        <a href="https://filezilla-project.org/" style="text-decoration: none; color: inherit; display: flex; align-items: center; height: 100%;">
+            <img src="./images/filezilla.png" alt="FileZilla" style="width: 20px; height: 20px; margin-right: 10px;">
+            <span style="color: rgb(255, 255, 255); font-size: 100%;">FileZilla</span>
+        </a>
+    </div>
+    <div style="display: inline-block; background-color:rgb(36, 36, 36); border-radius: 100px; padding: 5px 10px; margin: 5px; height: 30px;">
+        <a href="https://insomnia.rest/" style="text-decoration: none; color: inherit; display: flex; align-items: center; height: 100%;">
+            <img src="./images/insomnia.png" alt="Insomnia" style="width: 20px; height: 20px; margin-right: 10px;">
+            <span style="color: rgb(255, 255, 255); font-size: 100%;">Insomnia</span>
+        </a>
+    </div>
 </div>
 
 <br>
 
-<table align="center" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td style="padding: 10px 10px; border: none;"><img src="./images/python.png" alt="Python" height="40"></td>
-    <td style="padding: 10px 10px; border: none;"><img src="./images/javascript.png" alt="Javascript" height="40"></td>
-    <td style="padding: 10px 10px; border: none;"><img src="./images/vim.png" alt="Vim" height="40"></td>
-    <td style="padding: 10px 10px; border: none;"><img src="./images/nodejs.png" alt="NodeJS" height="40"></td>
-    <td style="padding: 10px 10px; border: none;"><img src="./images/vscode.png" alt="VSCode" height="40"></td>
-    <td style="padding: 10px 10px; border: none;"><img src="./images/github.png" alt="Github" height="40"></td>
-    <td style="padding: 10px 10px; border: none;"><img src="./images/java.png" alt="Java" height="40"></td>
-    <td style="padding: 10px 10px; border: none;"><img src="./images/R.png" alt="R" height="40"></td>
-  </tr>
-  <tr>
-    <td style="padding: 10px 10px; border: none;"><img src="./images/gcp.webp" alt="GCP" height="40"></td>
-    <td style="padding: 10px 10px; border: none;"><img src="./images/hadoop.svg" alt="Hadoop" height="40"></td>
-    <td style="padding: 10px 10px; border: none;"><img src="./images/linux.png" alt="Linux" height="40"></td>
-    <td style="padding: 10px 10px; border: none;"><img src="./images/nodered.svg" alt="Nodered" height="40"></td>
-    <td style="padding: 10px 10px; border: none;"><img src="./images/altium.png" alt="Altium" height="40"></td>
-    <td style="padding: 10px 10px; border: none;"><img src="./images/c.png" alt="C" height="40"></td>
-    <td style="padding: 10px 10px; border: none;"><img src="./images/cpp.png" alt="C++" height="40"></td>
-    <td style="padding: 10px 10px; border: none;"><img src="./images/airflow.png" alt="Airflow" height="40"></td>
-  </tr>
-  <tr>
-    <td style="padding: 10px 10px; border: none;"><img src="./images/matplotlib.png" alt="MatplotLib" height="40"</td>
-    <td style="padding: 10px 10px; border: none;"><img src="./images/tensorflow.png" alt="Tensorflow" height="40"></td>
-    <td style="padding: 10px 10px; border: none;"><img src="./images/scikit.png" alt="Scikit" height="40"></td>
-    <td style="padding: 10px 10px; border: none;"><img src="./images/git.png" alt="Git" height="40"></td>
-    <td style="padding: 10px 10px; border: none;"><img src="./images/huggingface.png" alt="HuggingFace" height="40"></td>
-    <td style="padding: 10px 10px; border: none;"><img src="./images/slack.png" alt="Slack" height="40"></td>
-    <td style="padding: 10px 10px; border: none;"><img src="./images/debian.png" alt="Debian" height="40"></td>
-    <td style="padding: 10px 10px; border: none;"><img src="./images/rpi.png" alt="RaspberryPi" height="40"></td>
-  </tr>  
-  <tr>
-    <td style="padding: 10px 10px; border: none;"><img src="./images/docker.png" alt="Docker" height="40"></td>
-    <td style="padding: 10px 10px; border: none;"><img src="./images/plotly.png" alt="Plotly" height="40"></td>
-    <td style="padding: 10px 10px; border: none;"><img src="./images/opencv.png" alt="OpenCV" height="40"></td>
-    <td style="padding: 10px 10px; border: none;"><img src="./images/arduino.png" alt="Arduino" height="40"></td>
-    <td style="padding: 10px 10px; border: none;"><img src="./images/D3js.png" alt="D3js" height="40"></td>
-    <td style="padding: 10px 10px; border: none;"><img src="./images/filezilla.png" alt="FileZilla" height="40"></td>
-    <td style="padding: 10px 10px; border: none;"><img src="./images/grafana.png" alt="Grafana" height="40"></td>
-    <td style="padding: 10px 10px; border: none;"><img src="./images/insomnia.png" alt="Insomnia" height="40"></td>
-  </tr>
-  <tr>
-    <td style="padding: 10px 10px; border: none;"><img src="./images/html.png" alt="HTML" height="40"></td>
-    <td style="padding: 10px 10px; border: none;"><img src="./images/css.png" alt="CSS" height="40"></td>
-    <td style="padding: 10px 10px; border: none;"><img src="./images/jupyter.png" alt="Jupyter" height="40"></td>
-    <td style="padding: 10px 10px; border: none;"><img src="./images/keras.png" alt="Keras" height="40"></td>
-    <td style="padding: 10px 10px; border: none;"><img src="./images/matlab.png" alt="Matlab" height="40"></td>
-    <td style="padding: 10px 10px; border: none;"><img src="./images/numpy.png" alt="Numpy" height="40"></td>
-    <td style="padding: 10px 10px; border: none;"><img src="./images/postgresql.png" alt="PostgreSQL" height="40"></td>
-    <td style="padding: 10px 10px; border: none;"><img src="./images/pandas.png" alt="Pandas" height="40"></td>
-  </tr>
-  <tr>
-    <td style="padding: 10px 10px; border: none;"><img src="./images/putty.png" alt="Putty" height="40"></td>
-    <td style="padding: 10px 10px; border: none;"><img src="./images/processing.png" alt="Processing" height="40"></td>
-    <td style="padding: 10px 10px; border: none;"><img src="./images/python.png" alt="PyTorch" height="40"></td>
-    <td style="padding: 10px 10px; border: none;"><img src="./images/sqlite.png" alt="Sqlite" height="40"></td>
-    <td style="padding: 10px 10px; border: none;"><img src="./images/jquery.png" alt="JQuery" height="40"></td>
-    <td style="padding: 10px 10px; border: none;"><img src="./images/apachebeam.png" alt="ApacheBeam" height="40"></td>
-    <td style="padding: 10px 10px; border: none;"><img src="./images/bash.png" alt="Bash" height="40"></td>
-    <td style="padding: 10px 10px; border: none;"><img src="./images/ifttt.png" alt="IFTTT" height="40"></td>
-  </tr>
-  <tr>
-    <td style="padding: 10px 10px; border: none;"><img src="" alt="" height="40"></td>
-    <td style="padding: 10px 10px; border: none;"><img src="" alt="" height="40"></td>
-    <td style="padding: 10px 10px; border: none;"><img src="" alt="" height="40"></td>
-    <td style="padding: 10px 10px; border: none;"><img src="./images/markdown.png" alt="Markdown" height="40"></td>
-    <td style="padding: 10px 10px; border: none;"><img src="./images/aws.png" alt="AWS" height="40"></td>
-    <td style="padding: 10px 10px; border: none;"><img src="" alt="" height="40"></td>
-    <td style="padding: 10px 10px; border: none;"><img src="" alt="" height="40"></td>
-    <td style="padding: 10px 10px; border: none;"><img src="" alt="" height="40"></td>
-  </tr>
-  <!-- <tr>
-    <td style="padding: 10px 10px; border: none;"><img src="" alt="" height="40"></td>
-    <td style="padding: 10px 10px; border: none;"><img src="" alt="" height="40"></td>
-    <td style="padding: 10px 10px; border: none;"><img src="" alt="" height="40"></td>
-    <td style="padding: 10px 10px; border: none;"><img src="" alt="" height="40"></td>
-    <td style="padding: 10px 10px; border: none;"><img src="" alt="" height="40"></td>
-    <td style="padding: 10px 10px; border: none;"><img src="" alt="" height="40"></td>
-    <td style="padding: 10px 10px; border: none;"><img src="" alt="" height="40"></td>
-    <td style="padding: 10px 10px; border: none;"><img src="" alt="" height="40"></td>
-  </tr> -->
-</table>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> My Github Stats </b>
 
