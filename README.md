@@ -2,7 +2,8 @@
 <div id="name">
 
 <h1 align="center">
-    <a href="https://git.io/typing-svg">
+    <!-- <a href="https://git.io/typing-svg"> -->
+    <a href="https://benahalkar.github.io/">
         <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;नमस्ते+(Namaste);This+is+Harsh+BENAHALKAR;Nice+to+meet+you!&center=true&size=30&pause=1500&color=#36BCF7FF&vCenter=true&background=000000">
     </a>
 </h1>
