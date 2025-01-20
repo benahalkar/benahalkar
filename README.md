@@ -1,21 +1,11 @@
 
 <div id="name">
 
-<!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=800&size=30&pause=1000&color=FFFFFF&vCenter=true&repeat=true&width=480&height=40&lines=Hi%2C+I+am+Harsh+Benahalkar+%F0%9F%91%8B" alt="Typing SVG" /></a>
-<br> -->
-
-<!-- <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Harsh+BENAHALKAR....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1> -->
-
 <h1 align="center">
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Harsh+BENAHALKAR;Nice+to+meet+you!&center=true&size=30&pause=1500&color=FFFFFF">
-  </a>
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;नमस्ते+(Namaste);This+is+Harsh+BENAHALKAR;Nice+to+meet+you!&center=true&size=30&pause=1500&color=FFFFFF">
+    </a>
 </h1>
-<!-- ![INTRO](https://readme-typing-svg.demolab.com/?lines=Hello,+there!+👋;this+is+Harsh+BENAHALKAR;Nice+to+meet+you!&center=true&color=FFFFFF&size=30) -->
 
 <br>
 
