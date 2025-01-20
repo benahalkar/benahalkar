@@ -1,17 +1,17 @@
 
 <div id="name">
 
-<!-- # Hi, I'm Harsh Benahalkar! 👋 -->
 <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=800&size=30&pause=1000&color=FFFFFF&vCenter=true&repeat=true&width=480&height=40&lines=Hi%2C+I+am+Harsh+Benahalkar+%F0%9F%91%8B" alt="Typing SVG" /></a>
 <br> -->
 
-<h1 align="center">
+<!-- <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Harsh+BENAHALKAR....;Nice+to+meet+you!&center=true&size=30">
   </a>
-</h1>
+</h1> -->
 
-<!-- ### I'm an Engineer -->
+<h1 align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Harsh+BENAHALKAR....;Nice+to+meet+you!&center=true&size=30"> </a> </h1>
+
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-benahalkar/)
@@ -50,39 +50,6 @@ So welcome, and thanks for stopping by. If you have any feedback, or if you woul
 </div>
 
 <br>
-
-<!-- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJS" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="cmd" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" height="40" style="vertical-align:top; margin:4px"> -->
-
-<!-- <p align="center">
-
-<img src="./images/python.png" alt="Python" height="40" style="margin: 10px;">
-<img src="./images/javascript.png" alt="Javascript" height="40" style="margin: 10px;">
-<img src="./images/vim.png" alt="Vim" height="40" style="margin: 10px;">
-<img src="./images/nodejs.png" alt="NodeJS" height="40" style="margin: 10px;">
-<img src="./images/vscode.png" alt="VSCode" height="40" style="margin: 10px;">
-<img src="./images/github.png" alt="Github" height="40" style="margin: 10px;">
-<img src="./images/java.png" alt="Java" height="40" style="margin: 10px;">
-<img src="./images/R.png" alt="R" height="40" style="margin: 10px;">
-<img src="./images/gcp.webp" alt="GCP" height="40" style="margin: 10px;">
-<img src="./images/hadoop.svg" alt="Hadoop" height="40" style="margin: 10px;">
-<img src="./images/linux.png" alt="Linux" height="40" style="margin: 10px;">
-<img src="./images/nodered.svg" alt="Nodered" height="40" style="margin: 10px;">
-<img src="./images/altium.png" alt="Altium" height="40" style="margin: 10px;">
-<img src="./images/c.png" alt="C" height="40" style="margin: 10px;">
-<img src="./images/cpp.png" alt="C++" height="40" style="margin: 10px;">
-<img src="./images/airflow.png" alt="Airflow" height="40" style="margin: 10px;">
-<img src="./images/tensorflow.png" alt="Tensorflow" height="40" style="margin: 10px;">
-<img src="./images/scikit.png" alt="Scikit" height="40" style="margin: 10px;">
-<img src="./images/git.png" alt="Git" height="40" style="margin: 10px;">
-<img src="./images/huggingface.png" alt="HuggingFace" height="40" style="margin: 10px;">
-<img src="./images/html_css_js.png" alt="HtmlCssJs" height="40" style="margin: 10px;">
-
-</p> -->
 
 <table align="center" style="border-collapse: collapse; border: none;">
   <tr>
@@ -175,3 +142,11 @@ So welcome, and thanks for stopping by. If you have any feedback, or if you woul
   <img src="https://github-readme-stats.vercel.app/api?username=benahalkar&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&theme=github_dark&hide_border=true" alt="GitHub Stats" style="margin-right: 10px;" />
 
 </p>
+
+<br>
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
